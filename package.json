@@ -1,0 +1,16 @@
+{
+  "name": "alchemy-nft-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^2.2.0",
+    "guardian-wallet": "^0.0.6-rc.14.8"
+  }
+}
